@@ -1,7 +1,5 @@
 
 
-| **Module**                                | **Topics**                                                                                                                                 | **Details**    |
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
                                                                            
 | **1. Cloud Infrastructure Automation**    | Introduction to Infrastructure Automation                                                                                                   | Importance and need for automating cloud infrastructure operations.                                                                                             |
 |                                           | AWS CloudFormation                                                                                                                         | Automating infrastructure using AWS CloudFormation templates and stacks.                                                                                        |
